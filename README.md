@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
@@ -28,6 +27,10 @@ Deployed this website using GitHub pages. In order to do this I went to settings
 
 - 🏆 Thank you to my two study partners Austin & Collin for working with me on the beginning part of this assignment during a zoom call.
 - 💻 Thank you Ben & Zac for teaching us how to use html, css, and vscode.
+
+## 🔗 Link to deployed website
+
+- https://mattgrogandev.github.io/code-refactor/
 
 ## 🖼️ Image of final website
 

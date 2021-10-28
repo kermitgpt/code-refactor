@@ -28,3 +28,7 @@ Deployed this website using GitHub pages. In order to do this I went to settings
 
 - 🏆 Thank you to my two study partners Austin & Collin for working with me on the beginning part of this assignment during a zoom call.
 - 💻 Thank you Ben & Zac for teaching us how to use html, css, and vscode.
+
+## 🖼️ Image of final website
+
+![](2021-10-27-21-34-28.png)

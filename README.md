@@ -34,4 +34,4 @@ Deployed this website using GitHub pages. In order to do this I went to settings
 
 ## 🖼️ Image of final website
 
-![](2021-10-27-21-34-28.png)
+![finalsite](assets/images/2021-10-27-21-34-28.png)

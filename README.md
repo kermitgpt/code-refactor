@@ -26,5 +26,5 @@ Deployed this website using GitHub pages. In order to do this I went to settings
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- 🏆 Thank you to my two study partners Austin & Collin for working with me on this assignment.
+- 🏆 Thank you to my two study partners Austin & Collin for working with me on the beginning part of this assignment during a zoom call.
 - 💻 Thank you Ben & Zac for teaching us how to use html, css, and vscode.

@@ -11,7 +11,7 @@ body {
 }
 
 /* Logo on top left of website */
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -31,7 +31,7 @@ h1 {
 }
 
 /* Font size and style for text on nav bar at top right part of page */
-#nav {
+nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -139,7 +139,7 @@ p {
 }
 
 /* Formats footer */
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
